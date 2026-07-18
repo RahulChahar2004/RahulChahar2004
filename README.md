@@ -1,14 +1,24 @@
-# Hi there 👋 I'm Rahul Chahar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rahul Chahar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&repeat=true&width=1000&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+Web+Experiences;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
+<a href="https://github.com/RahulChahar2004">
+<img src="https://img.shields.io/github/followers/RahulChahar2004?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=RahulChahar2004&style=for-the-badge&color=blue"/>
+
+<a href="https://www.linkedin.com/in/rahul-chahar-b95a34321">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rahul.s.chahar2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -16,19 +26,26 @@
 # 💫 About Me
 
 ```javascript
-const Rahul = {
+const rahul = {
     name: "Rahul Chahar",
     role: "Full Stack Web Developer",
     location: "India 🇮🇳",
 
-    frontend: [
-        "HTML",
-        "CSS",
+    code: [
         "JavaScript",
         "TypeScript",
+        "Java",
+        "Python",
+        "C++",
+        "C"
+    ],
+
+    frontend: [
         "React",
         "Next.js",
-        "Tailwind CSS"
+        "Tailwind CSS",
+        "HTML",
+        "CSS"
     ],
 
     backend: [
@@ -38,28 +55,20 @@ const Rahul = {
         "Firebase"
     ],
 
-    languages: [
-        "Java",
-        "C++",
-        "C",
-        "Python"
+    currentlyBuilding: [
+        "Modern Full Stack Applications",
+        "Viraasat Clothing",
+        "AI-powered Web Experiences"
     ],
 
     interests: [
-        "Full Stack Development",
-        "Modern UI/UX",
         "System Design",
-        "AI Integration",
-        "Open Source"
+        "UI/UX",
+        "Open Source",
+        "Scalable Applications"
     ],
 
-    currentlyWorkingOn: [
-        "Modern Full Stack Applications",
-        "Viraasat Clothing",
-        "Scalable Web Platforms"
-    ],
-
-    motto: "Build. Learn. Improve. Repeat."
+    motto: "Keep Building. Keep Learning."
 }
 ```
 
@@ -69,45 +78,45 @@ const Rahul = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,vscode,postman,npm,vercel,java,cpp,c,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,postman,npm,vercel,java,python,cpp,c"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RahulChahar2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChahar2004&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChahar2004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=20&margin-h=20&column=4&no-frame=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulChahar2004&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RahulChahar2004&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
 
 </p>
 
@@ -115,53 +124,43 @@ const Rahul = {
 
 # 🐍 Contribution Snake
 
+> Enable the GitHub Action later to make this animation work.
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/RahulChahar2004/RahulChahar2004/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Working On
 
-* ⚛️ Building scalable Full Stack Applications
-* 🎨 Creating beautiful and responsive UI/UX
-* 🚀 Exploring AI-powered Web Applications
-* 📚 Learning advanced backend architecture
-* 🌍 Contributing to Open Source
+* 🔭 Building modern Full Stack web applications
+* 🛍️ Developing **Viraasat Clothing**
+* ⚡ Exploring AI integrations in web development
+* 📚 Improving backend architecture & scalability
+* 🎯 Creating beautiful UI/UX experiences
 
 ---
 
-# 💼 Featured Projects
+# 🌟 Featured Projects
 
 ### 🛍️ Viraasat Clothing
 
-A modern e-commerce platform focused on premium apparel and a seamless shopping experience.
+Modern e-commerce platform built with **Next.js**, **React**, **Tailwind CSS**, **Node.js**, and **MongoDB**.
 
-**Tech Used**
+### 🏆 Smart India Hackathon Projects
 
-* Next.js
-* React
-* Tailwind CSS
-* Node.js
-* MongoDB
+Innovative software solutions built to solve real-world problems using modern technologies.
 
----
+### 💻 Full Stack Applications
 
-### 🏆 Hackathon Projects
-
-Developed innovative software solutions focused on solving real-world problems through technology.
+Responsive, scalable, and performance-focused web applications using the latest technologies.
 
 ---
 
-### 🌐 Full Stack Web Applications
-
-Responsive, scalable, and performance-focused applications using modern web technologies.
-
----
-
-# 🌎 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -177,7 +176,7 @@ Responsive, scalable, and performance-focused applications using modern web tech
 
   
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/RahulChahar2004">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -185,11 +184,11 @@ Responsive, scalable, and performance-focused applications using modern web tech
 
 ---
 
+# 💡 Quote
+
 <p align="center">
 
-## ⚡ Quote I Live By
-
-*"Great software isn't just built — it's crafted."*
+> **"First, solve the problem. Then, write the code." — John Johnson**
 
 </p>
 
@@ -197,6 +196,14 @@ Responsive, scalable, and performance-focused applications using modern web tech
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=120&section=footer"/>
+### ⭐ Thanks for visiting my profile!
+
+*"Code with purpose. Build with passion."*
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0EA5E9,50:6366F1,100:9333EA&section=footer"/>
 
 </p>
